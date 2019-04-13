@@ -1,1 +1,1 @@
-# ApexCharts.js-for-APEX-Plugin-
+# ApexCharts.js-for-APEX-Plugin
